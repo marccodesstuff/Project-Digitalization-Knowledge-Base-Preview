@@ -1,0 +1,727 @@
+{
+  "vaultName": "Project Digitalization",
+  "lastExport": 1728292648340,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "attachments/Images/blender-banner-1.png",
+    "attachments/Images/desktop.ini",
+    "attachments/Images/fl-studio-banner-1.png",
+    "attachments/Images/git-banner-1.png",
+    "attachments/Images/github-banner-1.png",
+    "attachments/Images/Pasted image 20241004213528.png",
+    "attachments/Images/Pasted image 20241004213954.png",
+    "attachments/Images/Pasted image 20241004214000.png",
+    "attachments/Images/Pasted image 20241004214352.png",
+    "attachments/Images/Pasted image 20241006232802.png",
+    "attachments/Images/prototype-ui-1.png",
+    "attachments/Images/prototype-ui-2.png",
+    "attachments/Images/scarlet-nexus-1.png",
+    "attachments/Images/unity-banner-1.png",
+    "attachments/Images/vscode-banner-1.png",
+    "attachments/PDF/CPP.pdf",
+    "attachments/PDF/desktop.ini",
+    "attachments/PowerPoint/CPP.pptx",
+    "attachments/PowerPoint/desktop.ini",
+    "attachments/PowerPoint/Knowledge Base Migration.pptx",
+    "attachments/Word/Documentations/desktop.ini",
+    "attachments/Word/Documentations/Project Digitalization Game Design Document.docx",
+    "attachments/Word/Documentations/Project Digitalization Tech Stack.docx",
+    "attachments/Word/Documentations/Project Digitalization Technical Documentation Draft.docx",
+    "attachments/Word/Meetings/desktop.ini",
+    "attachments/Word/Meetings/Project Digitalization Meeting 001 - Onboarding Meeting 1.docx",
+    "attachments/Word/Meetings/Project Digitalization Meeting 002 - Project Lead Meeting 1.docx",
+    "attachments/Word/Meetings/Project Digitalization Meeting 003 - Project Idea Meeting 1.docx",
+    "attachments/Word/Meetings/Project Digitalization Meeting 004 - Development Machine Setup 1.docx",
+    "attachments/Word/Meetings/Project Digitalization Meeting 005 - Software Requirements Specifications 1.docx",
+    "attachments/Word/Memorandums/desktop.ini",
+    "attachments/Word/Memorandums/Project Digitalization Memorandum for Knowledge Base Migration.docx",
+    "attachments/Word/desktop.ini",
+    "Documents/Game Design Document.md",
+    "Documents/Music License Agreement.md",
+    "Documents/Project Pitch.md",
+    "Documents/Requirements Engineering.md",
+    "Documents/Software Requirements Specifications.md",
+    "Documents/Technical Specifications.md",
+    "Guides/Tools.md",
+    "Meetings/Meeting 001 - Onboarding Meeting.md",
+    "Meetings/Meeting 002 - Project Lead Meeting 1.md",
+    "Meetings/Meeting 003 - Project Idea Meeting 1.md",
+    "Meetings/Meeting 004 - Development Machine Setup 1.md",
+    "Meetings/Meeting 005 - Software Requirements Specifications 1.md",
+    "Meetings/Meeting 006 - Knowledge Base Migration.md",
+    "Memorandums/Memorandum for Knowledge Base Migration.md",
+    "Templates/Meeting Notes.md",
+    "Knowledge Base Setup.md",
+    "Project Information.md",
+    "lib/media/pasted-image-20241004213528.png",
+    "lib/media/pasted-image-20241004213954.png",
+    "lib/media/pasted-image-20241004214000.png",
+    "lib/media/scarlet-nexus-1.png",
+    "lib/media/pasted-image-20241004214352.png",
+    "lib/media/prototype-ui-1.png",
+    "lib/media/prototype-ui-2.png",
+    "lib/media/unity-banner-1.png",
+    "lib/media/pasted-image-20241006232802.png",
+    "lib/media/vscode-banner-1.png",
+    "lib/media/git-banner-1.png",
+    "lib/media/github-banner-1.png",
+    "lib/media/blender-banner-1.png",
+    "lib/media/fl-studio-banner-1.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "attachments/Images/blender-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 3389955,
+      "exportedPath": "attachments/images/blender-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/images/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/Images/fl-studio-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 570540,
+      "exportedPath": "attachments/images/fl-studio-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/git-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 210813,
+      "exportedPath": "attachments/images/git-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/github-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 23578,
+      "exportedPath": "attachments/images/github-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/Pasted image 20241004213528.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 2392058,
+      "exportedPath": "attachments/images/pasted-image-20241004213528.png",
+      "dependencies": []
+    },
+    "attachments/Images/Pasted image 20241004213954.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1699584,
+      "exportedPath": "attachments/images/pasted-image-20241004213954.png",
+      "dependencies": []
+    },
+    "attachments/Images/Pasted image 20241004214000.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1881415,
+      "exportedPath": "attachments/images/pasted-image-20241004214000.png",
+      "dependencies": []
+    },
+    "attachments/Images/Pasted image 20241004214352.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 684977,
+      "exportedPath": "attachments/images/pasted-image-20241004214352.png",
+      "dependencies": []
+    },
+    "attachments/Images/Pasted image 20241006232802.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 752303,
+      "exportedPath": "attachments/images/pasted-image-20241006232802.png",
+      "dependencies": []
+    },
+    "attachments/Images/prototype-ui-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 853600,
+      "exportedPath": "attachments/images/prototype-ui-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/prototype-ui-2.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 743382,
+      "exportedPath": "attachments/images/prototype-ui-2.png",
+      "dependencies": []
+    },
+    "attachments/Images/scarlet-nexus-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4816315,
+      "exportedPath": "attachments/images/scarlet-nexus-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/unity-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 92280,
+      "exportedPath": "attachments/images/unity-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/Images/vscode-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 171496,
+      "exportedPath": "attachments/images/vscode-banner-1.png",
+      "dependencies": []
+    },
+    "attachments/PDF/CPP.pdf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 9282976,
+      "exportedPath": "attachments/pdf/cpp.pdf",
+      "dependencies": []
+    },
+    "attachments/PDF/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/pdf/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/PowerPoint/CPP.pptx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 7952491,
+      "exportedPath": "attachments/powerpoint/cpp.pptx",
+      "dependencies": []
+    },
+    "attachments/PowerPoint/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/powerpoint/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/PowerPoint/Knowledge Base Migration.pptx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4750099,
+      "exportedPath": "attachments/powerpoint/knowledge-base-migration.pptx",
+      "dependencies": []
+    },
+    "attachments/Word/Documentations/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/word/documentations/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/Word/Documentations/Project Digitalization Game Design Document.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 5535974,
+      "exportedPath": "attachments/word/documentations/project-digitalization-game-design-document.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Documentations/Project Digitalization Tech Stack.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 16917,
+      "exportedPath": "attachments/word/documentations/project-digitalization-tech-stack.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Documentations/Project Digitalization Technical Documentation Draft.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 16963,
+      "exportedPath": "attachments/word/documentations/project-digitalization-technical-documentation-draft.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/word/meetings/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/Project Digitalization Meeting 001 - Onboarding Meeting 1.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 15888,
+      "exportedPath": "attachments/word/meetings/project-digitalization-meeting-001-onboarding-meeting-1.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/Project Digitalization Meeting 002 - Project Lead Meeting 1.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 15813,
+      "exportedPath": "attachments/word/meetings/project-digitalization-meeting-002-project-lead-meeting-1.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/Project Digitalization Meeting 003 - Project Idea Meeting 1.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 16044,
+      "exportedPath": "attachments/word/meetings/project-digitalization-meeting-003-project-idea-meeting-1.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/Project Digitalization Meeting 004 - Development Machine Setup 1.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 15678,
+      "exportedPath": "attachments/word/meetings/project-digitalization-meeting-004-development-machine-setup-1.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Meetings/Project Digitalization Meeting 005 - Software Requirements Specifications 1.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 15016,
+      "exportedPath": "attachments/word/meetings/project-digitalization-meeting-005-software-requirements-specifications-1.docx",
+      "dependencies": []
+    },
+    "attachments/Word/Memorandums/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/word/memorandums/desktop.ini",
+      "dependencies": []
+    },
+    "attachments/Word/Memorandums/Project Digitalization Memorandum for Knowledge Base Migration.docx": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 11953,
+      "exportedPath": "attachments/word/memorandums/project-digitalization-memorandum-for-knowledge-base-migration.docx",
+      "dependencies": []
+    },
+    "attachments/Word/desktop.ini": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 244,
+      "exportedPath": "attachments/word/desktop.ini",
+      "dependencies": []
+    },
+    "Documents/Game Design Document.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 10409,
+      "exportedPath": "documents/game-design-document.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241004213528.png",
+        "lib/media/pasted-image-20241004213954.png",
+        "lib/media/pasted-image-20241004214000.png",
+        "lib/media/scarlet-nexus-1.png",
+        "lib/media/pasted-image-20241004214352.png"
+      ]
+    },
+    "Documents/Music License Agreement.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4128,
+      "exportedPath": "documents/music-license-agreement.html",
+      "dependencies": []
+    },
+    "Documents/Project Pitch.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 205,
+      "exportedPath": "documents/project-pitch.html",
+      "dependencies": []
+    },
+    "Documents/Requirements Engineering.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4484,
+      "exportedPath": "documents/requirements-engineering.html",
+      "dependencies": []
+    },
+    "Documents/Software Requirements Specifications.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 17840,
+      "exportedPath": "documents/software-requirements-specifications.html",
+      "dependencies": [
+        "lib/media/prototype-ui-1.png",
+        "lib/media/prototype-ui-2.png"
+      ]
+    },
+    "Documents/Technical Specifications.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4090,
+      "exportedPath": "documents/technical-specifications.html",
+      "dependencies": []
+    },
+    "Guides/Tools.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 13083,
+      "exportedPath": "guides/tools.html",
+      "dependencies": [
+        "lib/media/unity-banner-1.png",
+        "lib/media/pasted-image-20241006232802.png",
+        "lib/media/vscode-banner-1.png",
+        "lib/media/git-banner-1.png",
+        "lib/media/github-banner-1.png",
+        "lib/media/blender-banner-1.png",
+        "lib/media/fl-studio-banner-1.png"
+      ]
+    },
+    "Meetings/Meeting 001 - Onboarding Meeting.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1648,
+      "exportedPath": "meetings/meeting-001-onboarding-meeting.html",
+      "dependencies": []
+    },
+    "Meetings/Meeting 002 - Project Lead Meeting 1.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 2582,
+      "exportedPath": "meetings/meeting-002-project-lead-meeting-1.html",
+      "dependencies": []
+    },
+    "Meetings/Meeting 003 - Project Idea Meeting 1.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1174,
+      "exportedPath": "meetings/meeting-003-project-idea-meeting-1.html",
+      "dependencies": []
+    },
+    "Meetings/Meeting 004 - Development Machine Setup 1.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1064,
+      "exportedPath": "meetings/meeting-004-development-machine-setup-1.html",
+      "dependencies": []
+    },
+    "Meetings/Meeting 005 - Software Requirements Specifications 1.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1201,
+      "exportedPath": "meetings/meeting-005-software-requirements-specifications-1.html",
+      "dependencies": []
+    },
+    "Meetings/Meeting 006 - Knowledge Base Migration.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 387,
+      "exportedPath": "meetings/meeting-006-knowledge-base-migration.html",
+      "dependencies": []
+    },
+    "Memorandums/Memorandum for Knowledge Base Migration.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1948,
+      "exportedPath": "memorandums/memorandum-for-knowledge-base-migration.html",
+      "dependencies": []
+    },
+    "Templates/Meeting Notes.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 80,
+      "exportedPath": "templates/meeting-notes.html",
+      "dependencies": []
+    },
+    "Knowledge Base Setup.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 32,
+      "exportedPath": "knowledge-base-setup.html",
+      "dependencies": []
+    },
+    "Project Information.md": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 847,
+      "exportedPath": "project-information.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241004213528.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 2392058,
+      "exportedPath": "lib/media/pasted-image-20241004213528.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241004213954.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1699584,
+      "exportedPath": "lib/media/pasted-image-20241004213954.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241004214000.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1881415,
+      "exportedPath": "lib/media/pasted-image-20241004214000.png",
+      "dependencies": []
+    },
+    "lib/media/scarlet-nexus-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 4816315,
+      "exportedPath": "lib/media/scarlet-nexus-1.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241004214352.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 684977,
+      "exportedPath": "lib/media/pasted-image-20241004214352.png",
+      "dependencies": []
+    },
+    "lib/media/prototype-ui-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 853600,
+      "exportedPath": "lib/media/prototype-ui-1.png",
+      "dependencies": []
+    },
+    "lib/media/prototype-ui-2.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 743382,
+      "exportedPath": "lib/media/prototype-ui-2.png",
+      "dependencies": []
+    },
+    "lib/media/unity-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 92280,
+      "exportedPath": "lib/media/unity-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241006232802.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 752303,
+      "exportedPath": "lib/media/pasted-image-20241006232802.png",
+      "dependencies": []
+    },
+    "lib/media/vscode-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 171496,
+      "exportedPath": "lib/media/vscode-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/git-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 210813,
+      "exportedPath": "lib/media/git-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/github-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 23578,
+      "exportedPath": "lib/media/github-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/blender-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 3389955,
+      "exportedPath": "lib/media/blender-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/fl-studio-banner-1.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 570540,
+      "exportedPath": "lib/media/fl-studio-banner-1.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 35341,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 1586,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 272327,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 353,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1728292648340,
+      "sourceSize": 218,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
